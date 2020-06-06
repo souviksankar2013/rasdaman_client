@@ -1,9 +1,0 @@
- [{
- "title": "-- Select a WCPS query --",
- "query": ""
- },
- {
-  "title": "No encoding",
-  "query": "for $c in (mean_summer_airtemp) return avg($c)"
- } 
-] 
